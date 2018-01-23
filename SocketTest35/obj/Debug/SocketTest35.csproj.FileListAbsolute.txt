@@ -1,0 +1,6 @@
+C:\repos\SocketTest35\SocketTest35\bin\Debug\SocketTest35.exe
+C:\repos\SocketTest35\SocketTest35\bin\Debug\SocketTest35.pdb
+C:\repos\SocketTest35\SocketTest35\obj\Debug\SocketTest35.csprojResolveAssemblyReference.cache
+C:\repos\SocketTest35\SocketTest35\obj\Debug\SocketTest35.csproj.CoreCompileInputs.cache
+C:\repos\SocketTest35\SocketTest35\obj\Debug\SocketTest35.exe
+C:\repos\SocketTest35\SocketTest35\obj\Debug\SocketTest35.pdb
